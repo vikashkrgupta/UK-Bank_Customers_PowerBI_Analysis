@@ -19,6 +19,11 @@ This repository contains a detailed analysis of the UK bank customers for the ye
 
 The analysis focuses on various attributes of the bank's customer base, including age distribution, gender balance, regional distribution, and job classification. The key metrics and insights are represented visually to provide a clear and concise understanding of the customer demographics.
 
+## Tool used:
+- Power BI
+- UK_Bank_Customers_Dataset
+ 
+
 ## Analysis Breakdown
 
 ### Customers by Age
